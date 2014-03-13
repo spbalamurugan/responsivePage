@@ -1,0 +1,184 @@
+@media (min-width: 1200px) {}
+
+/*@media (min-width: 992px) and (max-width: 1260px)*/
+@media (min-width: 1236px) and (max-width: 1260px) {
+body{}
+.logo{width: 23%;}
+.mid_nav{width: 90%;}
+.nav ul li:hover a,.mid_nav ul li a:hover,.mid_nav ul li a  {
+	width:100px;
+}
+.nav_R ul{width: 33%;}
+#content{width: 88%;}
+.left_panel_outward{width: 71%;}
+}
+@media (min-width: 1145px) and (max-width: 1235px) {
+body{}
+.logo{width: 23%;}
+.mid_nav{width: 90%;}
+.nav ul li:hover a,.mid_nav ul li a:hover,.mid_nav ul li a  {
+	width:100px;
+}
+.nav_R ul{width: 33%;}
+.form_toppanel{padding: 1%;width: 97%;}
+.form_toppanel label{font-size: 13px;width: 4%;}
+.input1{width: 75%;}
+.select_md_fpass{margin-left: 24px;}
+
+#content{width: 88%;}
+.left_panel_outward{width: 71%;}
+}
+
+@media (min-width: 1100px) and (max-width: 1144px) {
+body{}
+.logo{width: 23%;}
+.mid_nav{width: 88%;}
+.right_header{width: 34%;}
+.nav ul li:hover a,.mid_nav ul li a:hover,.mid_nav ul li a  {
+	width:100px;
+}
+.nav_R ul{width: 35%;}
+.form_toppanel{padding: 1%;width: 97%;}
+.form_toppanel label{font-size: 13px;width: 4%;}
+.input1{width: 75%;}
+.select_md_fpass{margin-left: 24px;}
+
+#content{width: 88%;}
+.left_panel_outward{width: 71%;}
+}
+
+@media (min-width: 982px) and (max-width: 1099px){
+
+body{}
+.logo{width: 26%;}
+.mid_nav{width: 88%;}
+.right_header{width: 34%;}
+.nav ul li:hover a,.mid_nav ul li a:hover,.mid_nav ul li a  {
+	width:95px;
+}
+.nav_R ul{width: 39%;}
+.form_toppanel{padding: 1%;width: 97%;}
+.form_toppanel label{font-size: 13px;width: 4%;}
+.input1{width: 75%;}
+.select_md_fpass{margin-left: 24px;}
+
+#content{width: 97%;}
+.left_panel_outward{width: 71%;}
+}
+
+@media (min-width: 768px) and (max-width: 981px){
+
+body{}
+#header{height: 180px;}
+.logo{float: none;
+margin: auto;
+padding: 20px 0 0;
+position: relative;
+width: 31%;}
+.logo img{max-width: 100%;}
+.mid_nav{width: 50%;}
+.right_header{width: 50%;}
+.nav ul li:hover a,.mid_nav ul li a:hover,.mid_nav ul li a  {
+	width:95px;
+}
+.nav_R ul{width: 50%;top: 96px;}
+.form_toppanel{padding: 1%;width: 97%;}
+.form_toppanel label{font-size: 13px;width: 7%;}
+.inform_1{width: 29%;}
+.point_1{padding: 8px 4px 0 2px;}
+.passener_img{width: 9%;}
+.more_pass{width: 41%;}
+.more_pass span{padding: 3% 0px 0px 4%;}
+.more_pass2{float: right; margin: 2% 6% 0px 0px;padding-left: 0px;}
+.input1{width: 75%;}
+.select_md_fpass{margin-left: 24px;}
+.nav4{float: right;}
+#content{width: 100%;}
+.left_panel_outward{width: 71%;}
+}
+
+
+@media (min-width: 480px) and (max-width: 767px)
+{
+body{}
+#header{height: 215px;}
+.logo{float: none;
+margin: auto;
+padding: 20px 0 0;
+position: relative;
+width: 52%;}
+.logo img{max-width: 100%;}
+.mid_nav{  float: none;
+    margin: auto;
+    position: relative;
+    width: 83%;
+}
+.mid_nav ul ul{z-index: 3;background: #222;}
+.right_header{width: 50%;}
+.nav ul li:hover a,.mid_nav ul li a:hover,.mid_nav ul li a  {
+	width:95px;
+}
+.nav_R ul{ top: 54%;
+    width: 87%;}
+.form_toppanel{padding: 1%;width: 97%;}
+.f_filed{width: 100%;float: left;}
+.form_toppanel label{font-size: 13px;width: 15%;}
+.inform_1,.inform_2{width: 65%;margin-left: 10%;}
+.select_md_fpass{width: 303px;margin-left: 52px;}
+.point_1{padding: 8px 4px 0 2px;}
+.passener_img{width: 9%;}
+.more_pass{width: 66%;float: right;}
+.more_pass span{padding: 3% 0px 0px 4%;}
+.more_pass2{float: right; margin: 2% 6% 0px 0px;padding-left: 0px;}
+.input1{width: 75%;}
+.nav4{float: left;}
+#content{width: 100%;}
+.left_panel_outward{width: 97%;}
+.right_panel{width: 67%;}
+
+
+}
+@media (min-width: 320px) and (max-width: 479px)
+{
+body{}
+#header{height: 215px;}
+.logo{float: none;
+margin: auto;
+padding: 20px 0 0;
+position: relative;
+width: 52%;}
+.logo img{max-width: 100%;}
+.mid_nav{  float: none;
+margin: auto;
+position: relative;
+width: 100%;
+}
+.nav ul li:hover a, .mid_nav ul li a:hover, .mid_nav ul li a{width: 77%;}
+
+.mid_nav ul img{max-width: 50%;}
+.mid_nav ul ul{z-index: 3;background: #222;}
+.right_header{width: 50%;}
+.nav ul li:hover a,.mid_nav ul li a:hover,.mid_nav ul li a  {
+	width:78px;
+}
+.mid_nav ul li a{font-size: 11px;}
+.nav_R ul{ top: 54%;
+    width: 94%;}
+.nav_R ul li#ask{display: none;}
+.form_toppanel{padding: 1%;width: 97%;}
+.f_filed{width: 100%;float: left;}
+.form_toppanel label{font-size: 13px;width: 15%;}
+.inform_1,.inform_2{width: 65%;margin-left: 10%;}
+.select_md_fpass{width: 200px;margin-left: 41px;}
+.return_form{width: 52%;}
+.point_1{padding: 8px 4px 0 2px;}
+.passener_img{width: 9%;}
+.more_pass{width: 66%;float: right;}
+.more_pass span{padding: 3% 0px 0px 4%;}
+.more_pass2{float: right; margin: 2% 6% 0px 0px;padding-left: 0px;}
+.input1{width: 75%;}
+.nav4{float: left;}
+#content{width: 100%;}
+.left_panel_outward{width: 97%;}
+.right_panel{width: 67%;}
+}
